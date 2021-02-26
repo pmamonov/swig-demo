@@ -1,0 +1,5 @@
+*.o
+*.so
+*.pyc
+test_wrap.c
+test.py
