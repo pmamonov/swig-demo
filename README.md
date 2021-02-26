@@ -9,6 +9,7 @@ $ make
 ## Test
 
 ```
+$ export LD_LIBRARY_PATH=.
 $ python
 
 >>> import test
